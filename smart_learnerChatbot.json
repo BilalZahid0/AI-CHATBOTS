@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        {
+          "answer": "Paris",
+          "correct": true
+        },
+        {
+          "answer": "London",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "hello",
+      "answer": "Hey"
+    },
+    {
+      "question": "Hi",
+      "answer": "hey"
+    }
+  ]
+}
